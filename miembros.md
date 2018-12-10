@@ -10,6 +10,7 @@
 * Hulk
 * Iron Man
 * Luke Cage
+* Nick Fury
 * QuickSilver
 * Scarlet Witch
 * Spider Woman
